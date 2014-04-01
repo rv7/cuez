@@ -1,0 +1,19 @@
+{
+  "name": "cuez",
+  "version": "0.0.0",
+  "description": "cuez\r ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rv7/cuez.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rv7/cuez/issues"
+  },
+  "homepage": "https://github.com/rv7/cuez"
+}
