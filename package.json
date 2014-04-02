@@ -14,6 +14,8 @@
   },
   "homepage": "https://github.com/rv7/cuez",
   "dependencies": {
-    "htmlparser2": "^3.7.1"
+    "htmlparser2": "^3.7.1",
+    "request": "~2.34.0",
+    "promise": "~4.0.0"
   }
 }
